@@ -3,8 +3,6 @@ This project develops a machine learning pipeline to classify user behavior as "
 
 The project compares four different classification algorithms—Random Forest, Logistic Regression, Support Vector Machine (SVM), and K-Nearest Neighbors (KNN)—to identify the most effective model for this task.
 
-(Note: Replace this placeholder with a real chart from your project, such as the feature importance plot or a model comparison graph.)
-
 🎯 Project Goal
 The primary objective is to build and evaluate a machine learning model that accurately predicts user behavior (active/inactive) from a real-world dataset. The project covers an end-to-end ML workflow, including data preprocessing, handling class imbalance, model training, and performance evaluation.
 
